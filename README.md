@@ -44,9 +44,9 @@ Unlike our competition, **ZetaStealer** simplifies the setup process by connecti
 - 😂 Fun prank commands<br>
 
 # Copyright
-###################<br>
-\##  ZetaStealer  \## v1<br>
-###################<br>
+#################<br>
+\## ZetaStealer \## v1<br>
+#################<br>
 <br>
 Copyright (C) Theta69 - All Rights Reserved<br>
 Unauthorized copying of this file, via any medium (except paid use) is strictly prohibited<br>
