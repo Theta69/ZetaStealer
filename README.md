@@ -45,7 +45,7 @@ Unlike our competition, **ZetaStealer** simplifies the setup process by connecti
 
 # Copyright
 ###################
-##  ZetaStealer  ## v1
+\##  ZetaStealer  \## v1
 ###################
 
 Copyright (C) Theta69 - All Rights Reserved
