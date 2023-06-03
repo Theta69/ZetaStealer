@@ -44,12 +44,12 @@ Unlike our competition, **ZetaStealer** simplifies the setup process by connecti
 - 😂 Fun prank commands<br>
 
 # Copyright
-###################
-\##  ZetaStealer  \## v1
-###################
-
-Copyright (C) Theta69 - All Rights Reserved
-Unauthorized copying of this file, via any medium (except paid use) is strictly prohibited
-Modification of this file's name, info or traffic direction is only allowed if author of modification currently owns a ZetaStealer license.
-Proprietary and confidential
+###################<br>
+\##  ZetaStealer  \## v1<br>
+###################<br>
+<br>
+Copyright (C) Theta69 - All Rights Reserved<br>
+Unauthorized copying of this file, via any medium (except paid use) is strictly prohibited<br>
+Modification of this file's name, info or traffic direction is only allowed if author of modification currently owns a ZetaStealer license.<br>
+Proprietary and confidential<br>
 Written by Theta69 <theta69official@gmail.com>, 2023
