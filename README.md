@@ -7,9 +7,9 @@
 <p align="center">![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)</p>
 <br>
 <p align="center">Progress meter:</p>
-<p align="center">🟩🟩🟩🟩 🟩🟩⬛⬛⬛  ⬛⬛⬛⬛⬛  🟩⬛⬛⬛⬛  🟩🟩⬛⬛⬛   ⬛⬛⬛⬛⬛    ⬛</p>
-<p align="center">|  idea  ||  Stealer  || Keylogger  || Controller ||  Builder   ||  Finishing || Launch |</p>
-<p align="center">          |                     PROGRAMMING                      |
+<p align="center">🟩🟩🟩🟩&nbsp;🟩🟩⬛⬛⬛&nbsp;&nbsp;⬛⬛⬛⬛⬛&nbsp;&nbsp;🟩⬛⬛⬛⬛&nbsp;&nbsp;🟩🟩⬛⬛⬛&nbsp;&nbsp;&nbsp;⬛⬛⬛⬛⬛&nbsp;&nbsp;&nbsp;&nbsp;⬛</p>
+<p align="center">|&nbsp;&nbsp;idea&nbsp;&nbsp;||&nbsp;&nbsp;Stealer&nbsp;&nbsp;||&nbsp;Keylogger&nbsp;&nbsp;||&nbsp;Controller&nbsp;||&nbsp;&nbsp;Builder&nbsp;&nbsp;&nbsp;||&nbsp;&nbsp;Finishing&nbsp;||&nbsp;Launch&nbsp;|</p>
+<p align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PROGRAMMING&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|</p>nbsp
 <br>
   
 # Launch Date
