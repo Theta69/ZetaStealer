@@ -2,9 +2,16 @@
 
 <p align="center">The ultimate all-in-one data collection software.</p>
 <p align="center">⚠️ This program is intended for educational purposes only! Its usage for malicious purposes is strictly prohibited. ⚠️</p>
-
 <br>
-
+<p align="center">Programming languages used:</p>
+<p align="center">![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)</p>
+<br>
+<p align="center">Progress meter:</p>
+<p align="center">🟩🟩🟩🟩 🟩🟩⬛⬛⬛  ⬛⬛⬛⬛⬛  🟩⬛⬛⬛⬛  🟩🟩⬛⬛⬛   ⬛⬛⬛⬛⬛    ⬛</p>
+<p align="center">|  idea  ||  Stealer  || Keylogger  || Controller ||  Builder   ||  Finishing || Launch |</p>
+<p align="center">          |                     PROGRAMMING                      |
+<br>
+  
 # Launch Date
 The anticipated launch date for ZetaStealer is projected to fall within the timeframe of September 1st, 2023 to January 1st, 2024.<br>
 The price for ZetaStealer will be between $30 - $50 (complete package) or $15 per module.
