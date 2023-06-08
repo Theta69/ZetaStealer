@@ -8,8 +8,8 @@
 <br>
 <p align="center">Progress meter:</p>
 <pre>
-🟩🟩🟩🟩 🟩🟩⬛⬛⬛  ⬛⬛⬛⬛⬛  🟩⬛⬛⬛⬛  🟩🟩⬛⬛⬛   ⬛⬛⬛⬛⬛    ⬛
-|  idea  ||  Stealer  || Keylogger  || Controller ||  Builder   ||  Finishing || Launch |
+🟩🟩🟩🟩 🟩🟩⬛⬛⬛  ⬛⬛⬛⬛⬛  🟩⬛⬛⬛⬛  🟩🟩⬛⬛⬛   ⬛⬛  ⬛⬛⬛⬛⬛    ⬛
+|  idea  ||  Stealer  || Keylogger  || Controller ||  Builder   || Web ||  Finishing || Launch |
           |                     PROGRAMMING                      |
 </pre>
 <br>
