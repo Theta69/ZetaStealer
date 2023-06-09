@@ -17,7 +17,7 @@
 # Launch Date
 The anticipated launch date for ZetaStealer is projected to fall within the timeframe of September 1st, 2023 to January 1st, 2024.<br>
 The price for ZetaStealer will be between $30 - $50 (complete package) or $15 per module.
-<p>Pay using <img src="https://img.shields.io/badge/Bitcoin-A6A9AA?style=flat&logo=bitcoin&logoColor=orange"></p>
+<p>Pay using<br><img src="https://img.shields.io/badge/Bitcoin-A6A9AA?style=flat&logo=bitcoin&logoColor=orange"></p>
 <br>
 
 # Setup Instructions
